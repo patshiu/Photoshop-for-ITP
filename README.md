@@ -15,6 +15,7 @@ All you need to get started is to have photoshop installed.
 
 ### TUTORIALS
 #### [Tutorials Playlist »](https://www.youtube.com/playlist?list=PLQHE2hlZgR6npK5QYm5oYOlqQ3ubE9GsU)
+#### [Download example files »](https://www.dropbox.com/sh/jvk3gxko3f1y1n6/AABGFM8wRM94UwBmwSHq3oyka?dl=0)
 
 1. ##### Why Photoshop? ([Part 1 Video»](https://youtu.be/J7djwdhAkbA))    
     * Photoshop vs. Illustrator vs. InDesign?   
